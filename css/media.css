@@ -1,0 +1,290 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px){
+
+	/*Menubar start*/
+	.menubar ul li a:after{
+		margin: 0 0;
+	}
+	/*Menubar end*/
+
+	/*Banner start*/
+	.banner-first-head{
+		font-size: 36px;
+	}
+	.banner-second-head{
+		margin: 30px 0;
+		font-size: 45px;
+		line-height: 45px;
+	}
+	.banner-menu p{
+		font-size: 18px;
+	}
+	.banner-menu p span{
+		font-size: 16px;
+	}
+	.banner-btn{
+		margin: 50px 0px 70px 0px;
+	}
+	/*Banner End*/
+	/*story-about start*/
+	.story-about{
+		padding: 50px 0;
+	}
+	.title{
+		font-size: 24px !important;
+	}
+	/*story about end*/
+	/* Counter start */
+	.counter-section{
+		padding: 30px 0;
+	}
+	.counter-head{
+		font-size: 62px;
+	}
+	.counter-col-wrapper{
+		padding: 20px 0;
+	}
+	/*Counter End*/
+	/*service-section start*/
+	.service-section{
+		padding: 50px 0;
+	}
+	.service-section hr{
+		margin: 15px 0 30px 0;
+	} 
+	/*service-section end*/
+	/*Device Design start*/
+	.unique-design{
+		padding-top: 50px;
+	}
+	/*Device Design End*/
+	/*Accordion Start*/
+	.accordion-section{
+		padding: 50px 0;
+	}
+	/*Accordion End*/
+	/*Testimonial start*/
+	.testimonial-inner .testi-comments p{
+		font-size: 18px;
+		text-align: center;
+	}
+	/*Testimonial end*/
+	.team{
+		padding: 50px 0;
+	}
+	
+	/*Team section End*/
+	/*gallery section start*/
+	.gallery{
+		padding: 50px 0;	
+	}
+	/*gallery section end*/
+	/*happy-clients start*/
+	.happy-clients{
+		padding: 50px 0;
+	}
+	/*happy-clients end*/
+	/*Blog section start*/
+	.blog{
+		padding: 50px 0;
+	}
+	/*Blog section end*/
+	/*footer section start*/
+	.finish{
+		padding: 40px 0;
+	}
+	/*Footer section end*/
+}	
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*Menubar start*/
+	.menubar ul li a:after{
+		margin: 0 0;
+	}
+	/*Menubar end*/
+	/*Banner start*/
+	.banner-first-head{
+		font-size: 62px;
+	}
+	.banner-second-head{
+		font-size: 80px;
+		line-height: 80px;
+	}
+	.banner-menu p{
+		font-size: 18px;
+	}
+	.banner-menu p span{
+		font-size: 16px;
+	}
+	/*Banner End*/
+	/*story-about start*/
+	.story-about{
+		padding: 60px 0;
+	}
+	/*story about end*/
+
+	/* Counter start */
+	.counter-head{
+		font-size: 52px;
+	}
+	/*Counter End*/
+	/*service-section start*/
+	.service-section{
+		padding: 60px 0;
+	}
+	.service-section hr{
+		margin: 20px 0 40px 0;
+	} 
+	/*service-section end*/
+	/*Device Design start*/
+	.unique-design{
+		padding-top: 60px;
+	}
+	/*Device Design End*/
+	/*Accordion Start*/
+	.accordion-section{
+		padding: 60px 0;
+	}
+	/*Accordion End*/
+	/*Testimonial start*/
+	.testimonial-inner .testi-comments p{
+		font-size: 20px;
+		text-align: center;
+	}
+	/*Testimonial end*/
+	/*Team section start*/
+
+	.team{
+		padding: 60px 0;
+	}
+	
+	/*Team section End*/
+	/*gallery section start*/
+	.gallery{
+		padding: 60px 0;	
+	}
+	/*gallery section end*/
+	/*happy-clients start*/
+	.happy-clients{
+		padding: 60px 0;
+	}
+	/*happy-clients end*/
+	/*Blog section start*/
+	.blog{
+		padding: 60px 0;
+	}
+	/*Blog section end*/
+	/*footer section start*/
+	.finish{
+		padding: 50px 0;
+	}
+	/*Footer section end*/
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*Menubar start*/
+	.menubar ul li a:after{
+		margin: 0 0;
+	}
+	/*Menubar end*/
+	/*Banner start*/
+	.banner-first-head{
+		font-size: 62px;
+	}
+	.banner-second-head{
+		font-size: 100px;
+		line-height: 100px;
+	}
+	/*Banner End*/
+
+	/*Story about start*/
+	.story-about{
+		padding: 80px 0;
+	}
+	.overlay-about-text h2{
+		font-size: 15px !important;
+	}
+	.overlay-about-text i{
+		font-size: 18px !important;
+	}
+	/*story about end*/
+
+	/* Counter start */
+	.counter-head{
+		font-size: 52px;
+	}
+	/*Counter End*/
+	/*service-section start*/
+	.service-section{
+		padding: 80px 0;
+	}
+	.single-service-wrapper i{
+		font-size: 35px;
+	}
+	/*service-section end*/
+	/*Device Design start*/
+	.unique-design{
+		padding-top: 80px;
+	}
+	/*Device Design End*/
+	/*Accordion Start*/
+	.accordion-section{
+		padding: 80px 0 800px 0;
+	}
+	/*Accordion End*/
+	/*Testimonial start*/
+	.testimonial-inner .testi-comments p{
+		text-align: center;
+	}
+	/*Testimonial end*/
+
+	/*Team section start*/
+	.team{
+		padding: 80px 0;
+	}
+	/*Team section End*/
+
+	/*gallery section start*/
+	.gallery{
+		padding: 80px 0;	
+	}
+	/*gallery section end*/
+	/*happy-clients start*/
+	.happy-clients{
+		padding: 80px 0;
+	}
+	/*happy-clients end*/
+	/*Blog section start*/
+	.blog{
+		padding: 80px 0;
+	}
+	/*Blog section end*/
+	/*footer section start*/
+	.finish{
+		padding: 60px 0;
+	}
+	/*Footer section end*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*Accordion Start*/
+	.custom-accordion-body{
+		height: 110px;
+	}
+	/*Accordion End*/
+}
+
+/*X large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+
+/*XX Large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
+
